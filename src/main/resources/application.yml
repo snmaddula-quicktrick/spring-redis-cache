@@ -1,0 +1,10 @@
+spring:
+  cache:
+    type: redis
+    
+  redis:
+    port: 6379 
+    host: 3.17.158.189
+
+  jpa:
+    show-sql: true
